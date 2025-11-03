@@ -1,0 +1,6 @@
+title: Inno-Craft
+description: Innovation • Technology • Craft
+theme: null
+plugins:
+  - jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0  # popüler bir hazır tema
